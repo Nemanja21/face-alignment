@@ -4,7 +4,6 @@ Detect facial landmarks from Python using the world's most accurate face alignme
 
 Build using [FAN](https://www.adrianbulat.com)'s state-of-the-art deep learning based face alignment method. 
 
-<p align="center"><img src="docs/images/face-alignment-adrian.gif" /></p>
 
 **Note:** The lua version is available [here](https://github.com/1adrianb/2D-and-3D-face-alignment).
 
